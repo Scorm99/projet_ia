@@ -1,0 +1,55 @@
+train: dataset/train/images
+val: dataset/valid/images
+test: dataset/test/images
+
+names: 
+  0: 0
+  1: 1.2k ohms
+  2: 1.5k ohms
+  3: 1.8K ohms
+  4: 1.8k ohms
+  5: 1.8kohms
+  6: 10 ohms
+  7: 100 ohms
+  8: 100k ohms
+  9: 10k ohms
+  10: 120 ohms
+  11: 12k ohms
+  12: 15 ohms
+  13: 150 ohms
+  14: 15k ohms
+  15: 180 ohms
+  16: 18k ohms
+  17: 1k ohms
+  18: 1k resistor
+  19: 2.2k ohms
+  20: 2.7k ohms
+  21: 21k ohms
+  22: 220 ohms
+  23: 22k ohms
+  24: 270 ohms
+  25: 27k ohms
+  26: 3.3k ohms
+  27: 3.9k ohms
+  28: 33 ohms
+  29: 330 ohms
+  30: 33k ohms
+  31: 390 ohms
+  32: 39k ohms
+  33: 4.7 ohms
+  34: 4.7k ohms
+  35: 47 ohms
+  36: 470 ohms
+  37: 47k ohms
+  38: 5.6 ohms
+  39: 5.6k ohms
+  40: 56 ohms
+  41: 560 ohms
+  42: 56k ohms
+  43: 6.8k ohms
+  44: 68 ohms
+  45: 680 ohms
+  46: 68k ohms
+  47: 8.2k ohms
+  48: 82 ohms
+  49: 820 ohms
